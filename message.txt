@@ -1,0 +1,4 @@
+This is a test message for one purpose, colossus mode and counting all occurrences of numbers. 0 1 22 333 4444 55555 666666 7777777 88888888 999999999. One zero and the same number of digit occurrences as the digit otherwise.
+
+Tabs check:				.
+Symbols check: *(@*#^!)#_$^&*?>":}{.
